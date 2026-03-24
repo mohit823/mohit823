@@ -1,10 +1,11 @@
-👋 Hi, I'm Mohit Kumar
-🚀 About Me
-🔭 I’m currently working on MERN Stack Projects
-🌱 I’m learning Full Stack Development (MongoDB, Express, React, Node.js)
-👯 I’m looking to collaborate on Open Source Projects
-💬 Ask me about HTML, CSS, JavaScript, React
-⚡ Fun fact: I love building real-world web apps
+## 👋 About Me
+
+* 🚀 I’m currently working on **MERN Stack Projects** and building real-world web applications
+* 🌱 I’m continuously learning **Full Stack Development (MongoDB, Express, React, Node.js)**
+* 💡 I’m passionate about creating **scalable, user-friendly, and responsive applications**
+* 🤝 I’m open to collaborating on **Open Source Projects and innovative ideas**
+* 💬 Ask me about **HTML, CSS, JavaScript, React, and Backend Development**
+* ⚡ Fun fact: I enjoy turning ideas into **fully functional web apps from scratch**
 
 
 ## 🌐 Socials
