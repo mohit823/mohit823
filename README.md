@@ -9,16 +9,15 @@
 
 ## 🌐 Socials
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mohit823">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/mohit-verma-6b1452381/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
 
 
 💻 Tech Stack
