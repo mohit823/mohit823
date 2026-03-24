@@ -8,7 +8,7 @@
 
 
 🌐 Socials:
-👉 GitHub-<img width="1280" height="1156" alt="image" src="https://github.com/user-attachments/assets/62762aba-26b7-4c40-a6e8-70fa92e74498" />
+👉 GitHub-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/62762aba-26b7-4c40-a6e8-70fa92e74498" />
 
  GitHub- 
 https://github.com/mohit823/mohit823/edit/main/README.md
