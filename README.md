@@ -7,14 +7,13 @@
 ⚡ Fun fact: I love building real-world web apps
 
 
-🌐 Socials:
-
+## 🌐 Socials
 
 <p align="center">
   <a href="https://github.com/mohit823">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-
+  
   <a href="https://www.linkedin.com/in/mohit-verma-6b1452381/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
