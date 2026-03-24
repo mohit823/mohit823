@@ -51,6 +51,19 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit823&show_icons=true&theme=radical" height="160"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit823&theme=radical" height="160"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit823&layout=compact&theme=radical" height="160"/>
+</p>
+
+https://github-readme-streak-stats.herokuapp.com/?user=mohit823&theme=radical&hide_border=true
 
 🏆 Achievements
 ⭐ Star repositories
