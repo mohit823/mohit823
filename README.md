@@ -9,12 +9,9 @@
 
 🌐 Socials:
 👉 GitHub-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/62762aba-26b7-4c40-a6e8-70fa92e74498" />
-
- GitHub- 
 https://github.com/mohit823/mohit823/edit/main/README.md
 
-👉 LinkedIn Profile Link-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6e9e900f-053b-4c2c-9373-cf2bdebe2c94" />
-
+👉 LinkedIn Profile Link-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6e9e900f-053b-4c2c-9373-cf2bdebe2c94" />
 https://www.linkedin.com/in/mohit-verma-6b1452381/
 
 
