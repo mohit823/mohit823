@@ -53,23 +53,30 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohit823&show_icons=true&theme=radical" height="160"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit823&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mohit823&theme=radical" height="160"/>
 </p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit823&layout=compact&theme=radical" height="160"/>
 </p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=mohit823&theme=radical&hide_border=true
+---
 
-🏆 Achievements
-⭐ Star repositories
-🦈 Pull requests merged
-❄️ Open source contributor
-🔥 Goals
-🚀 Become a Full Stack Developer
-💼 Get a MERN Stack Job
-🌍 Contribute to Open Source
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit823&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
