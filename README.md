@@ -13,7 +13,8 @@
  GitHub- 
 https://github.com/mohit823/mohit823/edit/main/README.md
 
-👉 LinkedIn Profile Link-
+👉 LinkedIn Profile Link-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6e9e900f-053b-4c2c-9373-cf2bdebe2c94" />
+
 https://www.linkedin.com/in/mohit-verma-6b1452381/
 
 
