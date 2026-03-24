@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Mohit Kumar
+🚀 About Me
+🔭 I’m currently working on MERN Stack Projects
+🌱 I’m learning Full Stack Development (MongoDB, Express, React, Node.js)
+👯 I’m looking to collaborate on Open Source Projects
+💬 Ask me about HTML, CSS, JavaScript, React
+⚡ Fun fact: I love building real-world web apps
+🌐 Socials
+🌐 Main GitHub Website
 
-<!--
-**mohit823/mohit823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 GitHub- 
+https://github.com/mohit823/mohit823/edit/main/README.md
 
-Here are some ideas to get you started:
+👉 LinkedIn Profile Link-
+https://www.linkedin.com/in/mohit-verma-6b1452381/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏆 Achievements
+⭐ Star repositories
+🦈 Pull requests merged
+❄️ Open source contributor
+🔥 Goals
+🚀 Become a Full Stack Developer
+💼 Get a MERN Stack Job
+🌍 Contribute to Open Source
