@@ -22,6 +22,8 @@
 
 💻 Tech Stack
 
+https://github.com/CodeSagarrr#-tech-stack
+
 
 
 
