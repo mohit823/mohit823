@@ -24,57 +24,35 @@
 
 ## 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+## 💻 Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
-![Chart.js](https://img.shields.io/badge/Chart.js-red?style=for-the-badge\&logo=chart.js)
-![Context API](https://img.shields.io/badge/Context--API-black?style=for-the-badge\&logo=react)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-purple?style=for-the-badge\&logo=daisyui)
-![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge\&logo=ejs)
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge\&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
-![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge\&logo=jquery)
-![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge\&logo=npm)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Nodemon](https://img.shields.io/badge/Nodemon-green?style=for-the-badge\&logo=nodemon)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![React Router](https://img.shields.io/badge/React--Router-red?style=for-the-badge\&logo=reactrouter)
-![React Query](https://img.shields.io/badge/React--Query-pink?style=for-the-badge\&logo=reactquery)
-![React Hook Form](https://img.shields.io/badge/React--Hook--Form-pink?style=for-the-badge\&logo=reacthookform)
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge\&logo=three.js)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge\&logo=vite)
-
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge\&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-red?style=for-the-badge\&logo=apache)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge\&logo=apachetomcat)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-blue?style=for-the-badge\&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge\&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
-
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge\&logo=framer)
-![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge\&logo=figma)
-![Sketch](https://img.shields.io/badge/Sketch-yellow?style=for-the-badge\&logo=sketch)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge\&logo=jest)
-![Mocha](https://img.shields.io/badge/Mocha-brown?style=for-the-badge\&logo=mocha)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge\&logo=raspberrypi)
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
 
 
 
