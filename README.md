@@ -20,9 +20,6 @@
 </p>
 
 
-💻 Tech Stack
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
@@ -53,26 +50,6 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 🏆 Achievements
