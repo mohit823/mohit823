@@ -51,7 +51,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -65,18 +64,4 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit823&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
