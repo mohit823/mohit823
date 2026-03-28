@@ -54,10 +54,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohit823&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohit823&show_icons=true&theme=radical" />
   <img width="48%" src="https://streak-stats.demolab.com?user=mohit823&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit823&layout=compact&theme=radical&cache_seconds=1800" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohit823&layout=compact&theme=radical" />
 </p>
