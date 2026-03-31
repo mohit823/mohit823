@@ -1,22 +1,45 @@
-## 👋 About Me
-
-* 🚀 I’m currently working on **MERN Stack Projects** and building real-world web applications
-* 🌱 I’m continuously learning **Full Stack Development (MongoDB, Express, React, Node.js)**
-* 💡 I’m passionate about creating **scalable, user-friendly, and responsive applications**
-* 🤝 I’m open to collaborating on **Open Source Projects and innovative ideas**
-* 💬 Ask me about **HTML, CSS, JavaScript, React, and Backend Development**
-* ⚡ Fun fact: I enjoy turning ideas into **fully functional web apps from scratch**
-
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+## 💫 About Me:
+Hi, I'm Mohit Kumar! I'm a passionate MERN Stack Developer specializing in building modern web applications with a focus on both frontend and backend technologies. I love problem-solving and exploring new technologies, always aiming to improve and deliver impactful solutions.
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Developer;🚀+10%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C++Developer;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
 <br/>
  
 ![Open To Work](https://img.shields.io/badge/🟢_OPEN%20TO%20WORK-7B2FBE?style=for-the-badge&labelColor=0f0c29&color=7B2FBE&logoColor=white)
  
 </div>
+ 
+---
+ 
+## 🧑‍💻 About Me
+ 
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+ 
+```json
+{
+  "name"      : "Mohit Kumar",
+  "title"     : "MERN Stack Developer",
+  "projects"  : "10+ Real-World Apps",
+  "location"  : "India 🇮🇳",
+  "available" : true,
+  "learning"  : "System Design & Cloud",
+  "superpower": "Coffee ☕ → Code 💻"
+}
+```
+ 
+<br/>
+ 
+🚀 Building **MERN Stack** real-world web applications  
+🏆 Shipped **10+ projects** across different domains  
+🌱 Currently mastering **System Design & Cloud**  
+🤝 Open to **collaborations & open source**  
+💡 Passionate about **scalable, clean & fast** apps  
+⚡ I turn **raw ideas → fully working products**
+ 
+<br clear="right"/>
+ 
+---
 
 
 ## 🌐 Socials
