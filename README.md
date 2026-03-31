@@ -7,6 +7,8 @@
 * 💬 Ask me about **HTML, CSS, JavaScript, React, and Backend Development**
 * ⚡ Fun fact: I enjoy turning ideas into **fully functional web apps from scratch**
 
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Developer;🚀+10%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
