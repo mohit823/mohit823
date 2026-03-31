@@ -7,6 +7,15 @@
 * 💬 Ask me about **HTML, CSS, JavaScript, React, and Backend Development**
 * ⚡ Fun fact: I enjoy turning ideas into **fully functional web apps from scratch**
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Full+Stack+Developer;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
+<br/>
+ 
+![Open To Work](https://img.shields.io/badge/🟢_OPEN%20TO%20WORK-7B2FBE?style=for-the-badge&labelColor=0f0c29&color=7B2FBE&logoColor=white)
+ 
+</div>
+
 
 ## 🌐 Socials
 
@@ -49,6 +58,16 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🚀 Projects Built | 💻 Technologies | ⭐ Contributions | 🌱 Learning |
+|:-----------------:|:---------------:|:----------------:|:-----------:|
+| **10+** | **20+** | **Active** | **Daily** |
+
+</div>
 
 
 ## 📊 GitHub Stats
