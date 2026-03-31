@@ -61,3 +61,23 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohit823&layout=compact&theme=radical" />
 </p>
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit823&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="95%" />
+</div>
+
+
+
+---
+
+<div align="center">
+
+**👀 Profile Views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohit823&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+</div>
+
+
